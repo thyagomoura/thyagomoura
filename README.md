@@ -3,9 +3,8 @@
  💭 Busco ter um estágio voltado para a área de desenvolvimento de softwares tanto como back, front ou full-stack.</br>
  💼 Como meta profissional espero um dia estar trabalhando em uma multinacional sem mesmo sair de casa.</br>
  </br>
- </br>
   
-<div align="center">
+<div align="left">
   <a href="https://github.com/thyagomoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyagomoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagomoura&layout=compact&langs_count=7&theme=tokyonight"/>
