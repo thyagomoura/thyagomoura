@@ -1,7 +1,7 @@
 ### Olá Eu sou o Thyago Moura
  📘 Sou estudante de Engenharia de Software na Universidade de Brasília.</br>
  💭 Busco ter um estágio voltado para a área de desenvolvimento de softwares tanto como back, front ou full-stack.</br>
- 💼 Como meta profissional espero um dia estar trabalhando em uma multinacional sem mesmo sair de casa.</br>
+
  </br>
   
 <div align="left">
