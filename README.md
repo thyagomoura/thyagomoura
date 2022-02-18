@@ -18,7 +18,7 @@
   <img align="center" alt="Thyago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thyago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thyago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/759670081067417600/939145000174886922/Design_sem_nome.png?width=610&height=610">
+  <img align="right" alt="Thyago-Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/759670081067417600/939145000174886922/Design_sem_nome.png?width=610&height=610">
 </div>
 
 ##
